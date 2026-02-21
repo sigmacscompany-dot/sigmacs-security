@@ -1,35 +1,7 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Homepage -->
-  <url>
-    <loc>https://sigmacscompany-dot.github.io/sigmacs-security/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <!-- Hero Section -->
-  <url>
-    <loc>https://sigmacscompany-dot.github.io/sigmacs-security/#hero</loc>
-    <priority>0.90</priority>
-  </url>
-
-  <!-- Services Section -->
-  <url>
-    <loc>https://sigmacscompany-dot.github.io/sigmacs-security/#services</loc>
-    <priority>0.90</priority>
-  </url>
-
-  <!-- About Us Section -->
-  <url>
-    <loc>https://sigmacscompany-dot.github.io/sigmacs-security/#about</loc>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- Contact Section -->
-  <url>
-    <loc>https://sigmacscompany-dot.github.io/sigmacs-security/#contact</loc>
-    <priority>0.80</priority>
-  </url>
-
+   <url>
+      <loc>https://sigmacscompany-dot.github.io/sigmacs-security/</loc>
+      <priority>1.00</priority>
+   </url>
 </urlset>
